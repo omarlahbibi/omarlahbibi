@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Omar Hbibi 👋
 
-<!--
-**omarlahbibi/omarlahbibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 Data Scientist | Aspiring ML Engineer
 
-Here are some ideas to get you started:
+I build end-to-end ML systems for data-driven decision-making — specializing in **predictive modeling**, **time series forecasting**, **NLP**, and **fine-tuning** for robust, production-ready results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Tech Stack**
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Data Analytics** | Apache Spark, MapReduce, PostgreSQL |
+| **ML Frameworks** | Sklearn, XGBoost, LightGBM, PyTorch, TensorFlow, MLflow |
+| **LLMs** | BERT, Fine-tuning, OpenAI API |
+| **Deployment** | FastAPI, Flask, Streamlit |
+| **Tools** | Git, VS Code, Jupyter|
+
+---
+
+### 📫 **Connect with Me**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/omarhbibi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:omarhbibi.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
