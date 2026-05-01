@@ -11,9 +11,9 @@ I build end-to-end ML systems for data-driven decision-making — specializing i
 | Domain | Technologies |
 | :--- | :--- |
 | **Data Analytics** | Apache Spark, MapReduce, PostgreSQL |
-| **ML Frameworks** | Sklearn, XGBoost, LightGBM, PyTorch, TensorFlow, MLflow |
+| **AI & ML** | Sklearn, XGBoost, PyTorch, TensorFlow, MLflow |
 | **LLMs** | BERT, Fine-tuning, OpenAI API |
-| **Deployment** | FastAPI, Flask, Streamlit |
+| **Deployment** | AWS, FastAPI, Flask|
 | **Tools** | Git, VS Code, Jupyter|
 
 ---
